@@ -7,7 +7,7 @@ echo "Securonis Linux ColdBoot Def Management"
 echo "---------------------------------------"
 echo
 echo "This service securely wipes the contents of RAM when the system shuts down."
-echo "This process can extend the shutdown time by several minutes."
+echo "This tool uses Seconionis's Autowipe feature"
 echo
 
 while true; do
