@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVICE_NAME="ramkill.service"
+SERVICE_NAME="seconionis-autowipe.service"
 
 echo "---------------------------------------"
 echo "Securonis Linux ColdBoot Def Management"
